@@ -88,7 +88,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/embed-cdn.surveyhero.com\/popup\/user\/main.qbpcd3bh.js"
+                 "value":"https:\/\/embed-cdn.surveyhero.com\/js\/user\/embed.ah9zkhrc"
                 }],
          "type":"tilelayer",
          "visible":true,
