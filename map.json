@@ -7,7 +7,7 @@
          "height":17,
          "id":41,
          "name":"SilentZone",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"silent",
