@@ -104,7 +104,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/transfer.vdivde-it.de\/index.php\/login"
+                 "value":"https:\/\/yopad.eu\/p\/IIT-Workshop?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -357,11 +357,6 @@
          "name":"mapName",
          "type":"string",
          "value":"Starter kit"
-        }, 
-        {
-         "name":"script",
-         "type":"string",
-         "value":"script.js"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
