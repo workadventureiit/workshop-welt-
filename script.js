@@ -1,1 +1,1 @@
-WA.chat.sendChatMessage ('if you have any questions, just ask')
+WA.chat.sendChatMessage ('if you have any questions, just ask');
