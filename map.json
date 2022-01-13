@@ -70,7 +70,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.schach-spielen.eu\/schach-online-spielen"
+                 "value":"https:\/\/www.chess.com\/de\/play"
                 }],
          "type":"tilelayer",
          "visible":true,
